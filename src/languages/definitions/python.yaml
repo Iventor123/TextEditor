@@ -1,0 +1,16 @@
+name: Python
+fileExtensions:
+  - .py
+  - .pyw
+executable: python
+indentation: 4
+keywords:
+  - def
+  - class
+  - if
+  - else
+  - for
+  - while
+  - import
+  - from
+  - return

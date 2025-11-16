@@ -1,0 +1,19 @@
+editor:
+  fontSize: 11
+  fontFamily: "Courier New"
+  tabSize: 4
+  useSpaces: true
+  
+ui:
+  theme: "dark"
+  windowWidth: 1200
+  windowHeight: 800
+  
+execution:
+  timeout: 10
+  clearOutputOnRun: true
+  
+languages:
+  - python
+  - javascript
+  - bash

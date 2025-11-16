@@ -1,0 +1,13 @@
+editor:
+  save: "Ctrl+S"
+  open: "Ctrl+O"
+  new: "Ctrl+N"
+  
+execution:
+  run: "Ctrl+R"
+  stop: "Ctrl+Shift+X"
+  
+ui:
+  toggleFileExplorer: "Ctrl+B"
+  toggleOutput: "Ctrl+J"
+  fullscreen: "F11"
